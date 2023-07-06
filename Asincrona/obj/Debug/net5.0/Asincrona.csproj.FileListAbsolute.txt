@@ -1,0 +1,16 @@
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.exe
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.deps.json
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.runtimeconfig.json
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.runtimeconfig.dev.json
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.dll
+C:\Users\Squire\source\repos\Asincrona\Asincrona\bin\Debug\net5.0\Asincrona.pdb
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.csproj.AssemblyReference.cache
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.AssemblyInfoInputs.cache
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.AssemblyInfo.cs
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.csproj.CoreCompileInputs.cache
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.dll
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\refint\Asincrona.dll
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.pdb
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\Asincrona.genruntimeconfig.cache
+C:\Users\Squire\source\repos\Asincrona\Asincrona\obj\Debug\net5.0\ref\Asincrona.dll
