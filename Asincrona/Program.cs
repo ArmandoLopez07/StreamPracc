@@ -118,5 +118,10 @@ namespace Asincrona
                 fs.Write(ASCIIEncoding.ASCII.GetBytes(cadena), 0 , cadena.Length);
             }
         }
+
+        public static void AniadeArchivo(ref List<Persona> per)
+        {
+
+        }
     }
 }
